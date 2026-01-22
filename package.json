@@ -2,6 +2,7 @@
   "name": "emplymangsyst",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,6 +10,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.36.8",
+    "dotenv": "^17.2.3",
+    "lucide-react": "^0.562.0",
+    "mongoose": "^9.1.5",
     "next": "16.1.4",
     "react": "19.2.3",
     "react-dom": "19.2.3"
