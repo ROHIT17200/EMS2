@@ -57,7 +57,7 @@ export default function Header() {
                 className="text-3xl font-bold"
                 style={{ color: '#60a5fa' }}
               >
-                RD<span className="text-amber-500">COMPANY</span>
+                VK<span className="text-amber-500">GROUP</span>
               </div>
             </Link>
             
