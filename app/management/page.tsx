@@ -1,4 +1,5 @@
 const dynamic="force-static";
+const revalidate=5;
 import con from "../../lib/conn.js";
 import EMS from "../../models/employee.js";
 import EmployeeManagementPage from "./comp";
